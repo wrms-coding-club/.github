@@ -1,2 +1,2 @@
-# WRMS Coding Club
-This is the official github organization for the WRMS coding club.
+# wrms-coding-club
+The official github organization for the WRMS afterschool coding club.
